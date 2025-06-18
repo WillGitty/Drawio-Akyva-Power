@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="S1ekoMq3kWfkfN6MklpE">
-    <mxGraphModel dx="392" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,14 +220,14 @@
         <mxCell id="mMsDG7vZc8K9TrAEefOq-89" value="Soft Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="420" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mMsDG7vZc8K9TrAEefOq-90" value="TMP117AIYBGT - I2C" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="900" width="140" height="30" as="geometry" />
+        <mxCell id="mMsDG7vZc8K9TrAEefOq-90" value="TMP117AIYBGT - I2C - (+/- 0.1 C)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="940" y="900" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mMsDG7vZc8K9TrAEefOq-91" value="Future Coil Input" style="rounded=1;whiteSpace=wrap;html=3;fillColor=#66FFFF;fontSize=10;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mMsDG7vZc8K9TrAEefOq-92" value="LMT70YFQ - Analog (+/- 0.05C)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="920" width="190" height="30" as="geometry" />
+        <mxCell id="mMsDG7vZc8K9TrAEefOq-92" value="LMT70YFQ - Analog (+/- 0.05C)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="940" y="920" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mMsDG7vZc8K9TrAEefOq-93" value="CY15B108QI-20LPXI - 8Mbit&amp;nbsp; (3.23 x 3.28 mm)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="790" y="900" width="100" height="30" as="geometry" />
